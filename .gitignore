@@ -1,0 +1,23 @@
+# ==========================================
+# RAÍZ DEL PROYECTO - ecommerce-web-app
+# ==========================================
+
+# --- BACKEND (.NET) ---
+backend/bin/
+backend/obj/
+backend/*.user
+backend/.vs/
+backend/appsettings.json
+backend/appsettings.Production.json
+
+# --- FRONTEND (Vite / React) ---
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# --- General ---
+*.log
+.DS_Store
+Thumbs.db
