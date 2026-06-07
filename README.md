@@ -89,12 +89,12 @@ The platform includes features such as:
 
 # 📷 Screenshots
 
-![Home](./assets/imagen1.png)
-![Home](./assets/imagen2.png)
-![Dashboard](./assets/imagen3.png)
-![Dashboard](./assets/imagen4.png)
-![Dashboard](./assets/imagen5.png)
-![Dashboard](./assets/imagen6.png)
-![Dashboard](./assets/imagen7.png)
-![Dashboard](./assets/imagen8.png)
-![Dashboard](./assets/imagen9.png)
+![Home](./assets/imagen 1.png)
+![Home](./assets/imagen 2.png)
+![Dashboard](./assets/imagen 3.png)
+![Dashboard](./assets/imagen 4.png)
+![Dashboard](./assets/imagen 5.png)
+![Dashboard](./assets/imagen 6.png)
+![Dashboard](./assets/imagen 7.png)
+![Dashboard](./assets/imagen 8.png)
+![Dashboard](./assets/imagen 9.png)
