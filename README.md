@@ -89,8 +89,8 @@ The platform includes features such as:
 
 # 📷 Screenshots
 
-![Home](./assets/imagen 1.png)
-![Home](./assets/imagen 2.png)
+![Home](./assets/imagen_1.png)
+![Home](./assets/imagen_2.png)
 ![Dashboard](./assets/imagen 3.png)
 ![Dashboard](./assets/imagen 4.png)
 ![Dashboard](./assets/imagen 5.png)
