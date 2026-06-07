@@ -84,3 +84,17 @@ The platform includes features such as:
 - Apply modern frontend and backend development practices
 - Integrate cloud-hosted databases with Azure
 - Improve software quality through automated testing
+
+---
+
+# 📷 Screenshots
+
+![Home](./assets/imagen1.png)
+![Home](./assets/imagen2.png)
+![Dashboard](./assets/imagen3.png)
+![Dashboard](./assets/imagen4.png)
+![Dashboard](./assets/imagen5.png)
+![Dashboard](./assets/imagen6.png)
+![Dashboard](./assets/imagen7.png)
+![Dashboard](./assets/imagen8.png)
+![Dashboard](./assets/imagen9.png)
